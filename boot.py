@@ -6,11 +6,11 @@ import machine
 import utime
 
 # Blynk authentication token
-BLYNK_AUTH = 'C2k5NLpA7HNqTNPFpJuUuVgOr-jhYO3P'
+BLYNK_AUTH = 'Auth code provided'
 
 # Wi-Fi credentials
-WIFI_SSID = 'PTCL-BB'
-WIFI_PASS = '033682210850'
+WIFI_SSID = 'wifi'
+WIFI_PASS = 'password'
 
 # LED pin (replace with your actual pin number)
 LED_PIN = 2
